@@ -29,7 +29,7 @@ To run this project, ensure you have the following installed:
 ## Usage
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Akashmandal08/your-repository.git
    ```
 2. Navigate to the project directory and open the Jupyter Notebook file (`Python_project.ipynb`):
    ```bash
